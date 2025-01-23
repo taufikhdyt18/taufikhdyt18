@@ -1,12 +1,9 @@
-- 👋 Hi, I’m --
-- 👀 I’m interested in --
-- 🌱 I’m currently learning --
-- 💞️ I’m looking to collaborate on --
-- 📫 How to reach me --
-- 😄 Pronouns: --
-- ⚡ Fun fact: --
+# 👋 Hi, I'm Taufik!
+👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
+👩🏻‍🎓 Studied [Computer Science](https://youtu.be/Dd_4zfmY-aA?si=3NnnJ-j5ls7johlv) at the University of Otago, New Zealand<br/>
+🎨 Making videos about Computer Science, tech, and productivity on [YouTube](https://www.youtube.com/c/MagdelineHuang)<br/>
+🌷 #learninginpublic in my [digital garden](https://magdelinehuang.com/)<br/>
+💭 Currently learning about data analytics and [dataviz](https://pudding.cool/2018/08/pockets/)!<br/>
 
-<!---
-taufikhdyt18/taufikhdyt18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+![](https://github-readme-stats.vercel.app/api?username=xsol05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
